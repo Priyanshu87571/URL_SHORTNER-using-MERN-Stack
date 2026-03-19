@@ -53,14 +53,23 @@ URL_SHORTNER-using-MERN-Stack/
 │   └── package.json
 
 # Node + Express backend
-├── server/           
+
+├── server/ 
+
 │   ├── models/
+
 │   ├── routes/
+
 │   ├── controllers/
+
 │   ├── server.js
+
 │   └── package.json
+
 ├── README.md
+
 └── .gitignore
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
