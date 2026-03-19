@@ -49,7 +49,8 @@ URL_SHORTNER-using-MERN-Stack/
 │   ├── src/
 │   ├── public/
 │   └── package.json
-├── server/           # Node + Express backend
+# Node + Express backend
+├── server/           
 │   ├── models/
 │   ├── routes/
 │   ├── controllers/
