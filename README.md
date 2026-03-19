@@ -72,8 +72,11 @@ URL_SHORTNER-using-MERN-Stack/
 
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/Priyanshu87571/URL_SHORTNER-using-MERN-Stack.git
+
 cd URL_SHORTNER-using-MERN-Stack
 
 📌 Backend Setup
