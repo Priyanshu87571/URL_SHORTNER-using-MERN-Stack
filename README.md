@@ -43,7 +43,9 @@ ShortId / NanoId (for generating unique short URLs)
 
 URL_SHORTNER-using-MERN-Stack/
 
-├── client/           # React frontend
+# React frontend
+├── client/
+
 │   ├── src/
 │   ├── public/
 │   └── package.json
