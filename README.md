@@ -4,7 +4,7 @@ A fully functional URL Shortener Application built using the MERN Stack (MongoDB
 This app allows users to shorten long URLs and easily redirect to the original link.
 It also tracks usage and provides clean UI for generating short URLs.
 
-🚀 Features
+## Features
 
 🔗 Shorten any long URL
 
