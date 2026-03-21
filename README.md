@@ -95,7 +95,7 @@ Start backend:
 
 npm start
 
-🌐 Frontend Setup
+## Frontend Setup
 cd client
 npm install
 npm start
