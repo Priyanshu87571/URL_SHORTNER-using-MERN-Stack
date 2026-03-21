@@ -20,7 +20,7 @@ It also tracks usage and provides clean UI for generating short URLs.
 
 🌐 Supports environment variables (.env)
 
-🛠️ Tech Stack
+## Tech Stack
 Frontend
 
 React.js
@@ -43,7 +43,7 @@ ShortId / NanoId (for generating unique short URLs)
 
 URL_SHORTNER-using-MERN-Stack/
 
-# React frontend
+## React frontend
 ├── client/
 
 │   ├── src/
@@ -52,7 +52,7 @@ URL_SHORTNER-using-MERN-Stack/
 
 │   └── package.json
 
-# Node + Express backend
+## Node + Express backend
 
 ├── server/ 
 
@@ -71,7 +71,7 @@ URL_SHORTNER-using-MERN-Stack/
 └── .gitignore
 
 
-⚙️ Installation & Setup
+## Installation & Setup
 
 1️⃣ Clone the Repository
 
@@ -79,7 +79,7 @@ git clone https://github.com/Priyanshu87571/URL_SHORTNER-using-MERN-Stack.git
 
 cd URL_SHORTNER-using-MERN-Stack
 
-📌 Backend Setup
+## Backend Setup
 cd server
 npm install
 
