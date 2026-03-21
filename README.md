@@ -1,4 +1,4 @@
-URL Shortener – MERN Stack
+# URL Shortener – MERN Stack
 
 A fully functional URL Shortener Application built using the MERN Stack (MongoDB, Express, React, Node.js).
 This app allows users to shorten long URLs and easily redirect to the original link.
